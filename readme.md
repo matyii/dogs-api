@@ -4,7 +4,7 @@
 Send pictures of random dogs through Discord Webhooks!
 
 ### Information
-This is just and edited version of my [chucknorris-jokes](https://github.com/matyii/chucknorris-jokes) repository!
+This is just an edited version of my [chucknorris-jokes](https://github.com/matyii/chucknorris-jokes) repository!
 
 ### Installation
 - Install the requirements by using the command `pip install -r requirements.txt`
